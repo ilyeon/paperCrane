@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper
+
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.spring.papercrane.mappers.userMapper">
+
+<!-- 
+<select id="userSelect" resultType="User">select * from userTBL</select>
+<select id="checkUser" parameterType="map" resultType="User">select * from userTBL where id=#{id} and password=#{pw}</select>
+<insert id="signUp">insert into userTBL values (#{id}, #{pw})</insert>
+ -->
+</mapper>
